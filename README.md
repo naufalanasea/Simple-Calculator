@@ -1,2 +1,2 @@
 # Program-Kalkulator-Sederhana
-Pra Praktikum
+Pra Praktikum Algoritma pemrograman
